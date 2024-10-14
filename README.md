@@ -1,6 +1,6 @@
 # Sorting Algorithm Visualizer
 
-![Sorting Visualization](assets/images/sorting_screenshot.png) <!-- Replace with your screenshot -->
+![Sorting Visualization](<images-assets/Screenshot 2024-10-14 at 7.49.45 PM.png>)
 
 ## Table of Contents
 

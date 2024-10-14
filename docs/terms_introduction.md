@@ -123,7 +123,7 @@ A stable sorting algorithm maintains the relative order of items with equal sort
 
 Time Complexities and Space Complexities both use input sizes to quantify the amount of time/space needed for the execution of the algorithm. They are both denoted the same using Big-O.
 
-![graph](../images-assets/omplexity-examples-graph.png)
+![graph](<../images-assets/complexity graph.png>)
 
 <br>
 <br>
