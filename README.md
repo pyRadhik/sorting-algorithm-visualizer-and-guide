@@ -8,6 +8,7 @@
 - [Features](#features)
 - [Installation](#installation)
 - **Sorting Algorithms**
+  - [Terms](docs/terms_introduction.md)
   - [Bubble Sort](docs/bubble_sort.md)
   - [Insertion Sort](docs/insertion_sort.md)
   - [Merge Sort](docs/merge_sort.md)
