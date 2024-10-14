@@ -48,7 +48,7 @@ The **Sorting Algorithm Visualizer** is an interactive tool built with Pygame th
 
 2. **Create a Virtual Environment (Optional but Recommended):**
   ```bash
-  python3 -m venv venv
-  source venv/bin/activate
+    python3 -m venv venv
+    source venv/bin/activate
   
   
