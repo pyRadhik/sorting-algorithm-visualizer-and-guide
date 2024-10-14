@@ -43,6 +43,12 @@ The **Sorting Algorithm Visualizer** is an interactive tool built with Pygame th
 
 1. **Clone the Repository:**
    ```bash
-
    git clone https://github.com/your-username/sorting-algorithm-visualizer.git
    cd sorting-algorithm-visualizer
+
+2. **Create a Virtual Environment (Optional but Recommended):**
+  ```bash
+  python3 -m venv venv
+  source venv/bin/activate
+  
+  
