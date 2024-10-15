@@ -40,8 +40,8 @@ The **Sorting Algorithm Visualizer** is an interactive tool built with Pygame th
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/sorting-algorithm-visualizer.git
-   cd sorting-algorithm-visualizer
+   git clone https://github.com/your-username/sorting-algorithm-visualizer-and-guide.git
+   cd sorting-algorithm-visualize-and-guide
 
 2. **Create a Virtual Environment (Optional but Recommended):**
    ```bash
