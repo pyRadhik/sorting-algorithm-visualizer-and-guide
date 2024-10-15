@@ -30,7 +30,7 @@ Some examples of time complexities include but are not limited to:
 
   * This means that the time grows quadratically as the input size increases
 
-  * Example: Examining all elemnts in an array using a nested for loop (a loop placed inside another loop)
+  * Example: Examining all elements in an array using a nested for loop (a loop placed inside another loop)
 
 * **O(n^3)**
 
